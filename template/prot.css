@@ -1,0 +1,32 @@
+body{
+	width: 40%;
+	font-size: 2vh!important;
+}
+#title{
+	text-align: center;
+	font-size: 3vh!important;
+}
+table{
+	width: 90%;
+	table-layout: fixed;
+}
+td{
+	vertical-align: top;
+	font-size: 2vh!important;
+}
+.ftfc{
+	width: 50%;
+}
+.ftsc{
+	padding-left: 15px;
+	word-wrap: break-word;
+}
+.ftfc ,.ftsc{
+	padding-bottom: 15px;
+}
+.stsc{
+	text-align: right;
+}
+#przyjmujacy{
+	padding-right: 47px;
+}
